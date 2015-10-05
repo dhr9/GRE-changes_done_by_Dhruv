@@ -1,14 +1,14 @@
-detrimental(Adjective) : casing harm or injury (smoking is detrimental to health);
+detrimental(Adjective) : causing harm or injury (deteriorate health --> smoking --> injurious to health);
 
-benign(Adjective) : generous and kind;
+benign(Adjective) : 1)generous and kind 2)not dangerous to health {medicine};
 
-genteel(Adjective) : marked by refinement in taste and manners (gentle man);
+genteel(Adjective) : marked by refinement, politeness, respectability (gentle man);
 
 tumult(Noun) : a state of chaos, noise and confusion (tum ulta bola - tum ulta bola - riots);
 
 empathetic(Adjective) : showing understanding and ready comprehension of other people's states and emotions;
 
-credence(Noun) : belief in something (credene --> they believed that they were going to  be taught everything in theif classes);
+credence(Noun) : belief in something (credible -> believable -> to believe);
 
 genial(Adjective) : friendly and cheerful / warm and plesant (gena --> from the silicon valley);
 
@@ -18,7 +18,7 @@ concession(Noun) : a gesture made in recognition of a demand;
 
 uncompromising(Adjective) : not making concessions;
 
-urbane(Adjective) : showing a high degree of refinement and assurance, that comes from wide social experience {a sophesticated urbane man} (urbane spy --> james bond);
+urbane(Adjective) : sophisticated {courteous} (urban - rural - unsophisticated - therefore urbane is sophisticated);
 
 whimsical(Adjective) : determined by impulse or whim, rather than by necessity or reason / impulsive;
 
@@ -28,19 +28,19 @@ lucid(Adjective) : easily understandable;
 
 pellucid(Adjective) : easy to understand;
 
-unruly(Adjective) : 1)noisy and lacking discipline{not following rules} 2)uinwilling to submit to authority{can't be ruled};
+unruly(Adjective) : 1)lacking in restraint 2)uinwilling to submit to authority{can't be ruled};
 
-hamstrung(Adjective) : made ineffective or powerless;
+hamstrung(Adjective) : made ineffective or powerless(hamstring -> if leg and hand's hamstring is pulled, you are unable to walk or do anything and hence powerless);
 
 cornucopia(Adjective) : an abundant supply of someone or something / copious(corn, enough to cope with everything);
 
-perennial(Adjective) : 1)lasting an infinitely long time / eternal 2)throuthout the year {perennial rains};
+perennial(Adjective) : long-lasting;
 
 buck(Verb) : resist (buck-boost);
 
 banish(Verb) : ostracize;
 
-altruism(Noun) : the quality or unselfish concern for welfare of others (all|true|ism);
+altruism(Noun) : the quality or unselfish concern for welfare of others (all|true|ism -> all are true... so i am unselfish);
 
 missionary(Noun) : a person on a mission {generally relegious};
 
@@ -50,17 +50,17 @@ martial(Adjective) : suggesting war or military life (pertaining to war);
 
 augment(Verb) : enlarge or increase or improve by adding something to it (augmented reality --> hololense enlarges / improves reality);
 
-precedent(Noun) : an example, used to justify the similar occurences at a later time (noun form of precede);
+precedent(Noun) : an example, used to justify the similar occurrences at a later time (noun form of precede);
 
 unprecedented(Adjective) : never done before;
 
-derisive(Adjective) : abusing vocally / expressing contempt or redicule (der|se|receive --> you will abuse a person who brings what you want late);
+derisive(Adjective) : abusing vocally / expressing contempt or ridicule (der|se|receive --> you will abuse a person who brings what you want late);
 
-derision(Noun) : contemptous redicule or mockery;
+deride(Noun) : ridicule;
 
 perpetuate(Verb) : cause to continue;
 
-pristine(Adjective) : 1)unspoiled / untouched {w.r.t nature} 2)immaculately clean and unused;
+pristine(Adjective) : 1)unspoiled 2)immaculately clean and fresh 3)spotless ;
 
 immaculate(Adjective) : perfectly neat and clean (i|mac --> i keep my mac perfectly neat and clean);
 
@@ -68,21 +68,21 @@ irresolute(Adjective) : uncertain how to act or proceed (not resolute);
 
 resolute(Adjective) : admirably purposeful, determined and unwavering;
 
-sentimental(Adjective) : effusively or insincierly emotional;
+sentimental(Adjective) : effusively or insincerely emotional;
 
 effusive(Adjective) : showing positive emotions in an unrestrained or heartfelt manner (not diffusive --> when she feels emotions, she just explodes and pours out all the emotions, in an unrestrained manner);
 
-insinciere(Adjective) : not expressed genuinely (not sinciere);
+insincere(Adjective) : not expressed genuinely (not sinciere);
 
-glib(Adjective) : speaking with ease, but in an insinciere manner;
+glib(Adjective) : speaking with ease, but in an insincere manner;
 
-tawdry(Adjective) : 1)tastelessly showy / gawdy / ornate 2)badly made or done (dry and tasteless);
+tawdry(Adjective) : 1)showy but cheap 2)sordid or unpleasant(towel dry pink-colour; tawdry clothes, tawdry business);
 
 shoddy(Adjective) : badly made or done (~shabby);
 
 conducive(Adjective) : making happen a situation or an outcome more likely to happen (conductive --> current flow more likely to happen);
 
-gaudy(Adjective) : extravagantly bright or showy, typically sa as to be tasteless;
+gaudy(Adjective) : extravagantly bright or showy, typically so as to be tasteless;
 
 scornful(Adjective) : feeling or expression of content or derision;
 
@@ -92,7 +92,7 @@ sneer() : noun - 1)a contemptuous or mockery smile, remark or tone 2)verb - smil
 
 vacuous(Adjcetive) : devoid of intelligence, matter or significance (~vacuum);
 
-elaborate(Adjective) : 1)adjective - marked by complexity and richness in detail 2)Verb - explain in more detail;
+elaborate(Adjective) : 1)adjective - related to detail 2)Verb - explain in more detail;
 
 condescending(Adjective) : feeling superior to others;
 
@@ -102,7 +102,7 @@ gnaw(Verb) : 1)bite or nibble at something persistently {the dog gnawed at the b
 
 nibble(Verb) : 1)take small bites out of {nibbled her food} 2) gently bite at, especially nervously;
 
-resent(Verb) : feel bitterness or indignation (they asked him to resend his application, even though it was perfect, which made him feel resentment);
+resent(Verb) : feel bitterness or indignation;
 
 resentment(Noun) : feeling of bitterness or indignation;
 
@@ -114,42 +114,52 @@ egotist(Noun) : self centered person;
 
 conceited(Adjective) : excessively profound of oneself (kon|sited --> kon meri seat pe baitha ? meri seat pe , MERI);
 
-vanity(Noun) : excessive pride in one's own appearence or achievements (vanity fair magazine --> tony stark);
+vanity(Noun) : excessive pride in one's own appearance or achievements (vanity fair magazine --> tony stark);
 
 assail(Verb) : attack in speech or writing / polemic (assailant, but not physically, in speech or writing);
 
 assailant(noun) : a person who physically attacks others;
 
-disdain() : 1)noun - a feeling that someone or somethingis unworth of one's consideration or respect 2)verb - consider to be unworthy of consideration;
+disdain() : 1)noun - a feeling that someone or something is not worth of one's consideration or respect 2)verb - consider to be unworthy of consideration;
 
 grovel(Verb) : show submission or fear (~growl --> dog grovels in front of a lion);
 
-fickle(Adjective) : liabale to sudden and unpredictable changes;
+fickle(Adjective) : liable to sudden and unpredictable changes specially in affections or attachments;
 
 pertinent(Adjective) : germane (pertaining to the matter at hand);
 
-commendable(Adjective) : worthy of high praise / laudable (~recommendable);
+commendable(Adjective) : worthy of high praise / laudable (NO HINT MADE);
 
 commend(Verb) : praise formally / laud;
 
-smattering(Noun) : 1)slight or superficial understanding or a subject (small|matter --> smatter) 2)slight amount of something;
+smattering(Noun) : 1)slight or superficial understanding or a subject 2)slight amount of something (small|thing --> small amount of something or small understanding );
 
-impeccable(Adjective) : without fault or error / flawless (can't be peckked);
+impeccable(Adjective) : without fault or error / flawless (impeckable -> cant be pecked -> cant be picked);
 
 peccable(Adjective) : capable of sinning;
 
 assauge(Verb) : make something intense, less severe (~massage --> make pain less severe);
 
-inadvertent(Adjective) : hapenning by chance or unexpectedly or unintentionally (in|adventure --> unexpected things happen in an adventure);
+inadvertent(Adjective) : happening by chance or unexpectedly or unintentionally (advertising --> done on purpose);
 
 jargon(Noun) : a characteristic language of a particular group;
 
-surly(Adjective) : bad tempered and unfriendly (surely you're joking mr.Feynmann);
+surly(Adjective) : bad tempered and unfriendly (surly -> snaky -> snape);
 
-facetious(Adjective) : cleverly amusing tone (face|tease --> tease by making fully and clever voices);
+facetious(Adjective) : treating serious issues with deliberately inappropriate humor (face|tease --> John - Magnussen Face flick);
 
-euphoria(Noun) : a feeling or state of intense excitement and happiness;
+euphoria(Noun) : a feeling of great elation;
 
 dysphoria(Noun) : a state of unease or generalized dissatisfaction with life;
 
 elation(Noun) : great happiness;
+
+meretricious : showy, attractive, but of no real value(Sherlock -> showy);
+
+deride : ridicule;
+
+banal : trite;
+
+platitude : trite (latitude -> changes from place to place but remains same with time -> everyday);
+
+ostracize : expel;
